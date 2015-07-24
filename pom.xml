@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ee.aivar</groupId>
-	<artifactId>bootWeb</artifactId>
+	<artifactId>spring-boot-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
-	<name>SpringBootWeb</name>
+	<name>Spring Boot Web Application</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
